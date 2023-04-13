@@ -7,3 +7,10 @@ Transform your basic image into a meme-worthy masterpiece with an app that unlea
 Basically it create laser eye meme from your normal image!
 
 Also, All this shit is create by ChatGPT, I have no idea how image processing works lol
+
+## How to use
+- Start backend service 
+```sh
+python backend/app.py
+```
+- Open index.html and upload your image
